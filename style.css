@@ -1,0 +1,28 @@
+.name {
+    font-size: 50px;
+    color: rgb(129, 26, 133);
+    font-weight: bold;
+    margin: auto auto;
+}
+
+.main {
+    width: 250px; 
+    height: 250px;
+    border-radius : 8px;
+display: block;
+padding-right: auto ;
+padding-left: auto;
+    background-color: #f0f0f0;
+    border: 2px solid #ccc;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(3, 216, 3, 0.1);
+
+}
+
+.body {
+    font-size: 16px;
+    color: #333;
+    line-height: 1.5;
+    margin: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
